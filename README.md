@@ -1,0 +1,1 @@
+Bitmischief.Meridios.SmugMugClient
